@@ -1,2 +1,6 @@
-# technical-assignment-week-5-Alvina-Abe
-up tugas week 5
+- HX711
+
+
+
+
+![](1.PNG)
