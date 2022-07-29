@@ -1,6 +1,2 @@
 - HX711
-
-
-
-
-![](1.PNG)
+- ![gambar ](https://user-images.githubusercontent.com/108110691/181708159-4f8fd951-20f0-463d-ba07-96d8a76211e2.PNG)
